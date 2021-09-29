@@ -19,4 +19,6 @@ if ($tipo_compra == "mascotas") {
 }
 echo "</br>";
 echo "El precio final es: ". round($total_compra, 2)."€";
+
+
 ?>
